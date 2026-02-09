@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.469450959886!2d-68.7496958!3d-32.938613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x967e0bc59dbc0a8b%3A0xa8b14a97348fd0a9!2sOballes%20Eventos!5e0!3m2!1ses-419!2sar!4v1708785369026!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1670.1286239492406!2d-62.85854419377425!3d-33.15487269714696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ceca93707079eb%3A0x93ce1f1314a89e29!2sClub%20Olimpo%20(A.O.A.M.)!5e0!3m2!1ses!2sar!4v1770647448762!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
