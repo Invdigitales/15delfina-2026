@@ -79,7 +79,7 @@
   cursor: pointer;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
   animation: float 2s ease-in-out infinite; /* movimiento arriba-abajo */
-  margin-top: 83%;
+  margin-top: 18%;
   /* Fijar arriba */
   position: fixed;
   top: 20px;   /* distancia desde arriba */
