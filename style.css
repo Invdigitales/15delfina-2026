@@ -173,6 +173,7 @@ margin-left: 68%;
          font-size: 18px;
          color: #101010;
          margin-top: 30%; 
+         line-height: 28px;
   }
   .galeria{
     width: 8%;
@@ -182,7 +183,7 @@ margin-left: 68%;
   .carousel-inner img{
     width: 90%;
     margin-left: 5%;
-    margin-top: 15%;
+    margin-top: 12%;
     display: block;
 }
 
